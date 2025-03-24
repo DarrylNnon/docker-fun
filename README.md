@@ -131,7 +131,7 @@ docker-compose logs -f # to view logs
 
 ![alt text](image-8.png)
 
-# Include a python falsk app that connects to Redis:
+# Include a python flask app that connects to Redis:
 
 📝 Explanation of Additions:
 1️⃣ Added app Service:
