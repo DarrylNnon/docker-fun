@@ -1,7 +1,7 @@
 # docker-fun
 hands-on practice docker
 
-Am using gitpod, and docker is install by default on this IDE so i will just move the next step
+Am using gitpod, and docker is install by default on this IDE so i will just move to the next step
 
 # verify the docker version
 
