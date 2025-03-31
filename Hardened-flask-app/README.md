@@ -20,7 +20,7 @@ create a secure Dockerfile
 
 ```sh
 docker build -t hardened-flask-app .
-``
+```
 # create a docker-compose file
 
 # deploy with docker stack
